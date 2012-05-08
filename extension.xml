@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+
+	<metadata>
+		<name>NXC Hotkeys</name>
+		<version>1.0</version>
+		<copyright>Copyright (C) 1999-2011 NXC Consulting</copyright>
+		<license>GNU General Public License v2.0</license>
+	</metadata>
+
+	<dependencies>
+		<requires>
+			<extension name="ezjscore" />
+		</requires>
+	</dependencies>
+
+</software>
